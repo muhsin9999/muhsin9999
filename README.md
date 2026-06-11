@@ -59,7 +59,7 @@ focus_areas = {
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
 ![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat-square&logo=amazon-aws&logoColor=white)
 ![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
-![ECS](https://img.shields.io/badge/ECS_Fargate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![ECS Fargate](https://img.shields.io/badge/ECS_Fargate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Bedrock](https://img.shields.io/badge/Bedrock-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Cognito](https://img.shields.io/badge/Cognito-DD344C?style=flat-square&logo=amazon-aws&logoColor=white)
 ![SQS](https://img.shields.io/badge/SQS-FF4F8B?style=flat-square&logo=amazon-aws&logoColor=white)
