@@ -8,21 +8,32 @@ Building production AI systems on AWS — autonomous agents, LLM pipelines, and 
 
 ---
 
-**Stack**
+**Languages**
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,typescript,nodejs,fastapi,postgres,redis,docker,aws,terraform,github&amp;theme=dark&amp;perline=10" />
-</p>
+`Python` · `TypeScript` · `Node.js` · `SQL`
 
 ---
 
-**Stats**
+**Stack**
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=muhsin9999&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;count_private=true" height="160" />
-&#160;&#160;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhsin9999&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true" height="160" />
+<img src="https://skillicons.dev/icons?i=python&amp;theme=dark" title="Python" height="36" />
+<img src="https://skillicons.dev/icons?i=typescript&amp;theme=dark" title="TypeScript" height="36" />
+<img src="https://skillicons.dev/icons?i=nodejs&amp;theme=dark" title="Node.js" height="36" />
+<img src="https://skillicons.dev/icons?i=fastapi&amp;theme=dark" title="FastAPI" height="36" />
+<img src="https://skillicons.dev/icons?i=postgres&amp;theme=dark" title="PostgreSQL" height="36" />
+<img src="https://skillicons.dev/icons?i=redis&amp;theme=dark" title="Redis" height="36" />
+<img src="https://skillicons.dev/icons?i=docker&amp;theme=dark" title="Docker" height="36" />
+<img src="https://skillicons.dev/icons?i=aws&amp;theme=dark" title="AWS" height="36" />
+<img src="https://skillicons.dev/icons?i=terraform&amp;theme=dark" title="Terraform" height="36" />
+<img src="https://skillicons.dev/icons?i=nextjs&amp;theme=dark" title="Next.js" height="36" />
+<img src="https://skillicons.dev/icons?i=react&amp;theme=dark" title="React" height="36" />
+<img src="https://skillicons.dev/icons?i=github&amp;theme=dark" title="GitHub Actions" height="36" />
 </p>
+
+**AI / LLM**
+
+`AWS Bedrock` · `LangChain` · `Pinecone` · `OpenAI` · `OpenRouter` · `Google Gemini`
 
 ---
 
