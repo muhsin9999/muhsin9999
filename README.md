@@ -1,48 +1,67 @@
+<h1 align="center">Mustapha Muhsin</h1>
+
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=400&amp;size=14&amp;duration=2500&amp;pause=1000&amp;color=6E7681&amp;center=true&amp;vCenter=true&amp;width=520&amp;lines=AI+%26+Cloud+Engineer;Autonomous+Agents+%26+Multi-Agent+Systems;AWS+Serverless+Architecture;LLM+Orchestration+%26+RAG+Pipelines" alt="Typing SVG" />
+  <b>AI Engineer · Backend Systems · AWS Serverless</b><br/>
+  Building production LLM pipelines, multi-agent systems, and serverless backends
 </p>
 
-## Muhsin Mustapha
-
-Building production AI systems on AWS — autonomous agents, LLM pipelines, and event-driven serverless architectures.
+<p align="center">
+  <a href="https://linkedin.com/in/mustapha-muhsin-2288bb33b">LinkedIn</a> ·
+  <a href="mailto:onoruoiza15@gmail.com">onoruoiza15@gmail.com</a> ·
+  Remote (UTC+1) · Open to US / EU roles
+</p>
 
 ---
 
-**Languages**
+### What I'm building
 
-`Python` · `TypeScript` · `Node.js` · `SQL`
+I'm a core engineer on **SCAI (SEO Content AI)** at White Label Resell — a commercial SaaS platform for AI-powered content generation and autonomous website building.
+
+Recent work:
+- **Multi-agent AI site builder** — 40+ specialised DeepSeek agents running in a 10-wave DAG pipeline (omp-swarm via OpenRouter) that generates complete Next.js websites in under 5 minutes
+- **SEO content generation engine** — multi-provider AI pipeline (Gemini → OpenAI → Claude fallback via Vercel AI SDK) with Trigger.dev background jobs, Pusher real-time streaming, and 9 article types with WordPress one-click publishing
+- **MPS Waste Management System** — production serverless backend: 9 Python Lambda functions (ARM64), RDS MySQL (28 tables), Microsoft Entra ID SSO + Cognito auth, file import/export pipeline, KPI analytics — live in production on AWS
+- **Autonomous code improvement agent** — self-operating system: DeepSeek swarm analysis → R1 implementation → Steel.dev Playwright browser validation → GitHub bot auto-merge
 
 ---
 
-**Stack**
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python&amp;theme=dark" title="Python" height="36" />
-<img src="https://skillicons.dev/icons?i=typescript&amp;theme=dark" title="TypeScript" height="36" />
-<img src="https://skillicons.dev/icons?i=nodejs&amp;theme=dark" title="Node.js" height="36" />
-<img src="https://skillicons.dev/icons?i=fastapi&amp;theme=dark" title="FastAPI" height="36" />
-<img src="https://skillicons.dev/icons?i=postgres&amp;theme=dark" title="PostgreSQL" height="36" />
-<img src="https://skillicons.dev/icons?i=redis&amp;theme=dark" title="Redis" height="36" />
-<img src="https://skillicons.dev/icons?i=docker&amp;theme=dark" title="Docker" height="36" />
-<img src="https://skillicons.dev/icons?i=aws&amp;theme=dark" title="AWS" height="36" />
-<img src="https://skillicons.dev/icons?i=terraform&amp;theme=dark" title="Terraform" height="36" />
-<img src="https://skillicons.dev/icons?i=nextjs&amp;theme=dark" title="Next.js" height="36" />
-<img src="https://skillicons.dev/icons?i=react&amp;theme=dark" title="React" height="36" />
-<img src="https://skillicons.dev/icons?i=github&amp;theme=dark" title="GitHub Actions" height="36" />
-</p>
+### Stack
 
 **AI / LLM**
+`LangChain` `RAG` `Pinecone` `Multi-Agent Systems` `OpenAI API` `Google Gemini` `Anthropic Claude` `AWS Bedrock` `OpenRouter` `Vercel AI SDK` `Trigger.dev`
 
-`AWS Bedrock` · `LangChain` · `Pinecone` · `OpenAI` · `OpenRouter` · `Google Gemini`
+**Backend**
+`Python` `FastAPI` `Node.js` `Express` `TypeScript` `REST APIs` `WebSocket` `Celery` `Redis` `Stripe API`
+
+**AWS**
+`Lambda` `Step Functions` `API Gateway` `DynamoDB` `RDS` `S3` `SQS` `ECS Fargate` `Cognito` `EventBridge` `X-Ray` `SAM` `Secrets Manager`
+
+**Databases**
+`PostgreSQL` `MySQL` `DynamoDB` `Supabase` `Redis` `MongoDB` `Pinecone` `Turso`
+
+**DevOps**
+`Docker` `GitHub Actions` `Railway` `Vercel` `AWS SAM`
 
 ---
 
-**Projects**
+### Public projects
 
-[**rag-chatbot-api**](https://github.com/muhsin9999/rag-chatbot-api) — Production RAG API · Pinecone semantic search · GPT-4 · FastAPI · Celery  
-[**AttendanceAPI**](https://github.com/muhsin9999/AttendanceAPI) — Facial recognition attendance system · FastAPI · dlib · PostgreSQL  
-[**task-manager-api**](https://github.com/muhsin9999/task-manager-api) — Cloud-native task manager REST API · FastAPI · PostgreSQL · Docker
+| Project | What it does | Stack |
+|---|---|---|
+| [rag-chatbot-api](https://github.com/muhsin9999/rag-chatbot-api) | Production RAG API — document ingestion → Pinecone vector search → GPT-4 synthesis. Async via Celery + Redis. | Python · FastAPI · LangChain · Pinecone · Celery · Docker |
+| [AttendanceAPI](https://github.com/muhsin9999/AttendanceAPI) | Facial recognition attendance system — dlib 128-pt face encodings, JWT auth, PostgreSQL | Python · FastAPI · dlib · OpenCV · PostgreSQL |
+| [task-manager-api](https://github.com/muhsin9999/task-manager-api) | Cloud-native task manager REST API — JWT auth, Docker Compose, GitHub Actions CI/CD | Python · FastAPI · PostgreSQL · Docker |
 
 ---
 
-*Open to Senior AI / Cloud Engineering roles*
+### Background
+
+B.Eng in Electrical & Electronics Engineering — Federal University of Technology Minna (2nd Class Upper, 2024).
+Previously built an AI malaria diagnosis system (TensorFlow + OpenCV) at NCAIR, Nigeria's national AI research centre.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhsin9999&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhsin9999&layout=compact&theme=github_dark&hide_border=true" height="150"/>
+</p>
