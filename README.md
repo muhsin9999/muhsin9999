@@ -9,7 +9,7 @@ Currently working on LLM systems, multi-agent workflows and AWS infrastructure.
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mustapha-muhsin-2288bb33b">LinkedIn</a>
+  <a href="https://linkedin.com/in/mustapha-muhsin">LinkedIn</a>
   ·
   <a href="mailto:onoruoiza15@gmail.com">Email</a>
 </p>
