@@ -1,4 +1,4 @@
-<h1 align="center">Mustapha Muhsin</h1>
+<h1 align="center">Muhsin Mustapha</h1>
 
 <p align="center">
 AI Engineer building production LLM systems, backend APIs, and cloud infrastructure.
